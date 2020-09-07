@@ -1,6 +1,8 @@
+
+
 ## 1.git
 
-1.常用命令
+###### 1.常用命令
 
 git add:将本地文件增加到暂存区
 
@@ -26,7 +28,27 @@ git branch -D xxx：强制删除xxx分支
 
 
 
+git下载安装
 
+配置git用户名和邮箱
+
+搭建git服务器（远程仓库）
+
+在本地新建git项目           git init
+
+在远程建立git项目 
+
+本地远程项目关联            git remote add origin 项目网址
+
+发布项目                             git add .  ;git commit -m "   ";git push -u  origin master
+
+下载项目                              git clone 项目网址
+
+提交项目 ,三步                    git add .  ;git commit -m "   ";git push  origin master
+
+更新项目                               git pull 
+
+##### 
 
 
 

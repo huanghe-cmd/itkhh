@@ -15,11 +15,11 @@ git下载安装
 
 本地远程项目关联            git remote add origin 项目网址
 
-发布项目                             git add .  ;git commit -m "   ";git push -u origin master
+发布项目                             git add .  ;git commit -m "   ";git push -u  origin master
 
 下载项目                              git clone 项目网址
 
-提交项目 ,三步                    git add .  ;git commit -m "   ";git push -u origin master
+提交项目 ,三步                    git add .  ;git commit -m "   ";git push  origin master
 
 更新项目                               git pull 
 
