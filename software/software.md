@@ -8,3 +8,11 @@ Git&Git Extensions
 
 ScrToPic
 
+NetAssist
+
+知云
+
+winscp
+
+Vmware
+
